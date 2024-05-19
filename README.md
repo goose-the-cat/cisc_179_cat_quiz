@@ -1,2 +1,2 @@
 # cisc_179_cat_quiz
-cat fact quiz
+This program is a fun and interactive cat trivia quiz designed to test and boost your knowledge about cats. You get to choose how you want to answer the questions—either through multiple-choice or by typing out your answers. If you choose the written mode, you can even add a 15-second timer to make it more challenging. You can decide how many tries you want for each question and ask for hints if you get stuck. The quiz keeps track of your score, how many hints you used, and any wrong attempts, giving you detailed feedback at the end. The order of questions and choices is shuffled each time, so it feels fresh every time you play. It's a great way to have some fun while learning more about our feline friends!
